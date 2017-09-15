@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MoveBox:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MoveBox_jar</output-path>
+    <root id="archive" name="MoveBox.jar">
+      <element id="module-output" name="MoveBox" />
+    </root>
+  </artifact>
+</component>
